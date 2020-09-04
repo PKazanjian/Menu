@@ -1,7 +1,7 @@
 /* 
    Author: Philip J. Kazanjian ~ Boston MA ~ 09/03/2020
    Src: https://github.com/PKazanjian/mobilemenu
-   Desc: Controls CSS on Menu based on scroll position and click
+   Desc: A menu that tells you where you are on the webpage
 */
 /*jshint esversion: 6 */
 var click = 0;
