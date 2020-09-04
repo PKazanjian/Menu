@@ -1,4 +1,4 @@
-# MobileMenu
+# Menu
 ## A menu that tells you where you are on the webpage
 Here's are some of it's features:
 * Dynamically counts section headings
