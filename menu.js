@@ -1,7 +1,7 @@
 /* 
    Author: Philip J. Kazanjian ~ Boston MA ~ 09/03/2020
    Src: https://github.com/PKazanjian/Menu
-   Desc: A menu that tells you where you are on the webpage
+   Desc: A webpage/mobile menu
 */
 /*jshint esversion: 6 */
 var click = 0;
