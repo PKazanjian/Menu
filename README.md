@@ -6,9 +6,6 @@ Here's are some of it's features:
 * Uses smooth scolling and removes URL hash params
 
 ![Webpage Menu](http://thekettlemaker.com/ico/Menu.PNG)
-<img src="http://thekettlemaker.com/ico/Menu.PNG"
-     alt="Webpage Menu"
-     style="max-width:400px;" />
      
 You can find it in use here:
 http://thekettlemaker.com/ios.html
