@@ -5,4 +5,4 @@ Here's are some of it's features:
 * Controls CSS on Menu based on scroll position and click
 * Uses smooth scolling and removes URL hash params
 
-![Webpage Menu](http://thekettlemaker.com/Menu.PNG)
+![Webpage Menu](http://thekettlemaker.com/ico/Menu.PNG)
